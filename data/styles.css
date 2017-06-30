@@ -2,7 +2,7 @@
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
-  font-size:13px;
+  font-size:13pt;
   color:#333333;
   text-align:center;
   line-height:normal;
@@ -11,34 +11,38 @@
 }
 .box_2 {
 }
+.box_3 {
+}
+.ellipse {
+}
 ._图片 {
 }
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
   font-style:normal;
-  font-size:32px;
+  font-size:32pt;
   text-align:left;
 }
 ._二级标题 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
   font-style:normal;
-  font-size:24px;
+  font-size:24pt;
   text-align:left;
 }
 ._三级标题 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
   font-style:normal;
-  font-size:18px;
+  font-size:18pt;
   text-align:left;
 }
 ._四级标题 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
   font-style:normal;
-  font-size:14px;
+  font-size:14pt;
   text-align:left;
 }
 ._五级标题 {
@@ -51,11 +55,11 @@
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
   font-style:normal;
-  font-size:10px;
+  font-size:10pt;
   text-align:left;
 }
 .label {
-  font-size:14px;
+  font-size:14pt;
   text-align:left;
 }
 ._文本段落 {
