@@ -2,68 +2,149 @@
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
-  font-size:13pt;
+  font-size:13px;
   color:#333333;
   text-align:center;
   line-height:normal;
 }
 .box_1 {
+  font-family:'Microsoft YaHei UI';
+  font-weight:400;
+  font-style:normal;
 }
 .box_2 {
+  font-family:'Microsoft YaHei UI';
+  font-weight:400;
+  font-style:normal;
 }
 .box_3 {
+  font-family:'Microsoft YaHei UI';
+  font-weight:400;
+  font-style:normal;
 }
 .ellipse {
+  font-family:'Microsoft YaHei UI';
+  font-weight:400;
+  font-style:normal;
 }
-._图片 {
+._形状 {
+}
+.image {
+  font-family:'Microsoft YaHei UI';
+  font-weight:400;
+  font-style:normal;
+}
+.placeholder {
+  font-family:'Microsoft YaHei UI';
+  font-weight:400;
+  font-style:normal;
+}
+.button {
+  font-family:'Microsoft YaHei UI';
+  font-weight:400;
+  font-style:normal;
+}
+.primary_button {
+  font-family:'Microsoft YaHei UI';
+  font-weight:400;
+  font-style:normal;
+  color:#FFFFFF;
 }
 ._一级标题 {
-  font-family:'Arial Normal', 'Arial';
+  font-family:'Microsoft YaHei UI';
   font-weight:bold;
   font-style:normal;
-  font-size:32pt;
+  font-size:32px;
   text-align:left;
 }
 ._二级标题 {
-  font-family:'Arial Normal', 'Arial';
+  font-family:'Microsoft YaHei UI';
   font-weight:bold;
   font-style:normal;
-  font-size:24pt;
+  font-size:24px;
   text-align:left;
 }
 ._三级标题 {
-  font-family:'Arial Normal', 'Arial';
+  font-family:'Microsoft YaHei UI';
   font-weight:bold;
   font-style:normal;
-  font-size:18pt;
+  font-size:18px;
   text-align:left;
 }
 ._四级标题 {
-  font-family:'Arial Normal', 'Arial';
+  font-family:'Microsoft YaHei UI';
   font-weight:bold;
   font-style:normal;
-  font-size:14pt;
+  font-size:14px;
   text-align:left;
 }
 ._五级标题 {
-  font-family:'Arial Normal', 'Arial';
+  font-family:'Microsoft YaHei UI';
   font-weight:bold;
   font-style:normal;
   text-align:left;
 }
 ._六级标题 {
-  font-family:'Arial Normal', 'Arial';
+  font-family:'Microsoft YaHei UI';
   font-weight:bold;
   font-style:normal;
-  font-size:10pt;
+  font-size:10px;
   text-align:left;
 }
 .label {
-  font-size:14pt;
+  font-family:'Microsoft YaHei UI';
+  font-weight:400;
+  font-style:normal;
+  font-size:20px;
   text-align:left;
 }
 ._文本段落 {
+  font-family:'Microsoft YaHei UI';
+  font-weight:400;
+  font-style:normal;
   text-align:left;
 }
+._文本链接 {
+  color:#0000FF;
+}
+._鼠标悬停文本链接时 {
+}
+._鼠标按下文本链接时 {
+}
 .line {
+  font-family:'Microsoft YaHei UI';
+  font-weight:400;
+  font-style:normal;
+}
+.text_field {
+  font-family:'Microsoft YaHei UI';
+  font-weight:400;
+  font-style:normal;
+  color:#000000;
+  text-align:left;
+}
+.radio_button {
+  font-family:'Microsoft YaHei UI';
+  font-weight:400;
+  font-style:normal;
+  text-align:left;
+}
+._流程形状 {
+  font-family:'Microsoft YaHei UI';
+  font-weight:400;
+  font-style:normal;
+}
+._连接线 {
+  font-family:'Microsoft YaHei UI Bold', 'Microsoft YaHei UI';
+  font-weight:700;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+.flow_shape {
+  font-family:'Microsoft YaHei UI';
+  font-weight:400;
+  font-style:normal;
 }
