@@ -12,7 +12,6 @@
   font-weight:400;
   font-style:normal;
 }
-<<<<<<< HEAD
 .box_2 {
   font-family:'Microsoft YaHei UI';
   font-weight:400;
@@ -53,79 +52,45 @@
 }
 ._一级标题 {
   font-family:'Microsoft YaHei UI';
-=======
-.image {
-}
-.default_button {
-}
-._标题1 {
-  font-family:'Arial Normal', 'Arial';
->>>>>>> 8d6c7b26fe1f7926a25cd3fb106228e334648640
   font-weight:bold;
   font-style:normal;
   font-size:32px;
   text-align:left;
 }
-<<<<<<< HEAD
 ._二级标题 {
   font-family:'Microsoft YaHei UI';
-=======
-._标题2 {
-  font-family:'Arial Normal', 'Arial';
->>>>>>> 8d6c7b26fe1f7926a25cd3fb106228e334648640
   font-weight:bold;
   font-style:normal;
   font-size:24px;
   text-align:left;
 }
-<<<<<<< HEAD
 ._三级标题 {
   font-family:'Microsoft YaHei UI';
-=======
-._标题3 {
-  font-family:'Arial Normal', 'Arial';
->>>>>>> 8d6c7b26fe1f7926a25cd3fb106228e334648640
   font-weight:bold;
   font-style:normal;
   font-size:18px;
   text-align:left;
 }
-<<<<<<< HEAD
 ._四级标题 {
   font-family:'Microsoft YaHei UI';
-=======
-._标题4 {
-  font-family:'Arial Normal', 'Arial';
->>>>>>> 8d6c7b26fe1f7926a25cd3fb106228e334648640
   font-weight:bold;
   font-style:normal;
   font-size:14px;
   text-align:left;
 }
-<<<<<<< HEAD
 ._五级标题 {
   font-family:'Microsoft YaHei UI';
-=======
-._标题5 {
-  font-family:'Arial Normal', 'Arial';
->>>>>>> 8d6c7b26fe1f7926a25cd3fb106228e334648640
   font-weight:bold;
   font-style:normal;
   text-align:left;
 }
-<<<<<<< HEAD
 ._六级标题 {
   font-family:'Microsoft YaHei UI';
-=======
-.heading_6 {
-  font-family:'Arial Normal', 'Arial';
->>>>>>> 8d6c7b26fe1f7926a25cd3fb106228e334648640
   font-weight:bold;
   font-style:normal;
   font-size:10px;
   text-align:left;
 }
-<<<<<<< HEAD
 .label {
   font-family:'Microsoft YaHei UI';
   font-weight:400;
@@ -183,8 +148,3 @@
   font-weight:400;
   font-style:normal;
 }
-=======
-._文本 {
-  text-align:left;
-}
->>>>>>> 8d6c7b26fe1f7926a25cd3fb106228e334648640
